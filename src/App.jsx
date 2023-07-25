@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import "./app.css"
+import "./App.css"
 import { CartPage, DetailPage, HomePage } from './Screens/Index'
 import { Route, Routes } from 'react-router-dom'
 import Formulario from './Screens/Formulario/Formulario'
